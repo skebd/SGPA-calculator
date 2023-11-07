@@ -21,7 +21,7 @@ def subject():
     sub9 = 1 * grade(i)
     sub10 = 2 * grade(j)
     res = (sub1 + sub2 + sub3 + sub4 + sub5 + sub6 + sub7 + sub8 + sub9 + sub10) / 22
-    print(res)
+    print('SGPA:',res)
 
 
 def grade(y):
